@@ -1,6 +1,6 @@
 [
   {
-    "name"              : "lisk-network-reporter",
+    "name"              : "ark-network-reporter",
     "script"            : "app.js",
     "log_date_format"   : "YYYY-MM-DD HH:mm Z",
     "merge_logs"        : false,
@@ -17,8 +17,8 @@
       "INSTANCE_NAME"   : "PICK_INSTANCE_NAME",
       "CONTACT_DETAILS" : "",
       "NETWORK_MODE"    : "main",
-      "WS_SERVER"       : "ws://liskstats.net:3000",
-      "WS_SECRET"       : "Go to https://lisk.chat and ask around",
+      "WS_SERVER"       : "",
+      "WS_SECRET"       : "",
       "IS_FORGING"      : "no",
       "VERBOSITY"       : 2
     }
