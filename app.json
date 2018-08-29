@@ -12,13 +12,13 @@
     {
       "NODE_ENV"        : "production",
       "RPC_HOST"        : "localhost",
-      "RPC_PORT"        : "5000",
-      "LISTENING_PORT"  : "5000",
-      "INSTANCE_NAME"   : "BetaNet Tester 1",
-      "CONTACT_DETAILS" : "",
+      "RPC_PORT"        : "8000",
+      "LISTENING_PORT"  : "8000",
+      "INSTANCE_NAME"   : "PUT_INSTANCE_NAME_HERE",
+      "CONTACT_DETAILS" : "PUT_CONTACT_DETAILS_HERE",
       "NETWORK_MODE"    : "main",
-      "WS_SERVER"       : "ws://167.99.89.246:3000",
-      "WS_SECRET"       : "test",
+      "WS_SERVER"       : "ws://report.liskstats.net:3000",
+      "WS_SECRET"       : "W3B.........",
       "IS_FORGING"      : "no",
       "VERBOSITY"       : 2
     }
