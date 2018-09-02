@@ -11,7 +11,14 @@ This is the backend service which runs along with Lisk and tracks the network st
 * npm
 
 ## Installation
-<pre>git clone https://github.com/karek314/lisk-network-reporter/ && cd lisk-network-reporter && bash build.sh</pre>
+<pre>
+wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash
+export NVM_DIR="/root/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+nvm install 6.2.0
+git clone https://github.com/karek314/lisk-network-reporter/
+cd lisk-network-reporter
+bash build.sh</pre>
 
 ## Configuration
 <pre>nano app.json</pre>
