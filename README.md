@@ -2,9 +2,6 @@ Lisk Network Reporter
 ============
 This is the backend service which runs along with Lisk and tracks the network status, fetches information through api and connects through WebSockets to [lisk-network-stats](https://github.com/karek314/lisk-network-stats) to feed information.
 
-<b>Master</b> branch from and after 1.0.0 version of lisk core.<br>
-<b>Legacy</b> branch - before 1.0.0<br>
-
 ## Prerequisite
 * lisk up and running
 * node
